@@ -14,5 +14,5 @@ Fusion to integrate the multiplayer feature.
 ## Demo of the social metaverse
 You can check the following youtube video below which shows a demo of traveling inside Medieval Spain, and Modern NYC!
 
-[![Watch the video](https://yt-embed.live/embed?v=LAuU8GhGVa4)](https://youtu.be/LAuU8GhGVa4 "Watch the video")
+[![Watch the video](https://yt-embed.live/embed?v=zKEXLfnIYQQ)](https://youtu.be/zKEXLfnIYQQ "Watch the video")
 
