@@ -1,7 +1,7 @@
 # Fusion-Times-Metaverse
 
 Created this Multiplayer metaverse, where you can get the option to roam around Medieval Spain, or Modern NYC with a car of your choice.
-![title-pic](https://github.com/saha0073/Social-Metaverse-with-MultiplayerVR/blob/main/outdoor_screeshot.png)
+![title-pic](https://github.com/saha0073/Fusion-Times-Metaverse/blob/feature_branch/capture.jpg)
 
 Photon recently released networking tool Fusion, which is significantly faster, and consumes much less resources compared to existing networking tool Photon PUN. Implemented 
 Fusion to integrate the multiplayer feature. 
